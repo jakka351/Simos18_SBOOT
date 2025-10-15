@@ -1,3 +1,7 @@
+# J2534
+
+Attenpting this via J2534 interface with a GPIO server setup on a RPi for PWM pin control.
+
 # About
 
 This project provides documentation about the Supplier Bootloader (SBOOT) provided in Simos18 ECUs, with a focus on the OTP/Customer Protection module supplied by VW AG in VW vehicles.
